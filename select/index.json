@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DOGMA【シスター・クレアオリジナルソング】",
+  "base_artist": "シスター・クレア -SisterClaire-",
+  "createdAt": "2026-01-13T19:38:43.325832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOGMA",
+      "artist": "シスター・クレア",
+      "has_synced": false,
+      "path": "select/pl_01_DOGMA_シスター・クレア.txt"
+    }
+  ]
+}
